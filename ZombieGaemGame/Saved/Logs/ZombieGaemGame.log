@@ -1152,3 +1152,155 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.07-10.35.24:594][ 81]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap56870FBE4A3DEC8C81EA8D86726A0957.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2022.04.07-10.35.24:604][ 81]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.04.07-10.35.24:604][ 81]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.44.42:313][464]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (EditorCube14)
+[2022.04.07-10.44.52:086][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2022.04.07-10.45.09:864][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.07-10.45.12:870][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2022.04.07-10.45.32:781][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2022.04.07-10.45.33:322][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2022.04.07-10.45.45:804][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2022.04.07-10.45.52:990][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.07-10.45.53:006][824]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMapAB0987744B4D44A8159F20B6E8C6DF54.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.45.53:019][824]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.45.53:019][824]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.45.53:423][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.45.53:439][869]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap189E095E41AB0F220C8BC7B38261F98D.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.45.53:451][869]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.45.53:451][869]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.45.53:639][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.45.53:655][889]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap973E2A724687EFD1B014E7A0E1B13E96.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.45.53:667][889]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.45.53:667][889]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.45.53:839][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.45.53:855][908]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMapBB49747E4C5FC85F399D019FAE3D38B4.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.45.53:868][908]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.45.53:868][908]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.45.53:990][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.07-10.45.54:006][920]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMapF37DDB954CBBA807256BE1959E45055E.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.45.54:019][920]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.45.54:019][920]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.45.54:174][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.45.54:189][936]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap0BBB0B1240C195F97A1E2EBF65AF2E4E.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.45.54:202][936]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.45.54:202][936]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.45.54:357][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.07-10.45.54:373][951]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap87840DFA41C7A03641542B8F93CAEC49.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.45.54:385][951]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.45.54:385][951]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.46.06:128][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2022.04.07-10.46.06:844][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.07-10.46.38:801][193]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.07-10.46.38:805][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.07-10.46.38:805][193]PIE: New page: PIE session: FirstPersonExampleMap (8 Apr 2022, 6:46:38 am)
+[2022.04.07-10.46.38:805][193]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.07-10.46.38:813][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008231s)
+[2022.04.07-10.46.38:814][193]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.07-10.46.38:814][193]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2022.04.07-10.46.38:815][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009665s)
+[2022.04.07-10.46.38:820][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.04.07-10.46.38:821][193]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.07-10.46.38:821][193]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.07-10.46.38:821][193]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.07-10.46.38:821][193]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.07-10.46.38:821][193]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.07-10.46.38:821][193]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.07-10.46.38:821][193]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.07-10.46.38:821][193]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.07-10.46.38:821][193]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.07-10.46.38:822][193]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.07-10.46.38:822][193]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.07-10.46.38:822][193]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.07-10.46.38:822][193]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.07-10.46.38:828][193]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.07-10.46.38:828][193]LogAudioMixer: Display: 1: FrontRight
+[2022.04.07-10.46.38:834][193]LogAudioMixer: Display: Using Audio Device Speakers (RIG-800PRO HS)
+[2022.04.07-10.46.38:834][193]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.07-10.46.38:834][193]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.07-10.46.38:834][193]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.07-10.46.38:835][193]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.07-10.46.38:835][193]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.07-10.46.38:835][193]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.07-10.46.38:836][193]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.07-10.46.38:836][193]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.07-10.46.38:836][193]LogInit: FAudioDevice initialized.
+[2022.04.07-10.46.38:836][193]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.04.07-10.46.38:846][193]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.07-10.46.38:848][193]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.07-20.46.38
+[2022.04.07-10.46.38:848][193]LogWorld: Bringing up level for play took: 0.001345
+[2022.04.07-10.46.38:848][193]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.04.07-10.46.38:850][193]PIE: Server logged in
+[2022.04.07-10.46.38:850][193]PIE: Play in editor total start time 0.046 seconds.
+[2022.04.07-10.47.27:182][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-10.47.27:182][985]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.07-10.47.27:182][985]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-10.47.27:182][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-10.47.27:190][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.07-10.47.27:196][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-10.47.27:199][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-10.47.27:200][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-10.47.27:201][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-10.47.27:203][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.07-10.47.27:248][987]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.04.07-10.47.41:903][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2022.04.07-10.47.59:130][714]LogSlate: Took 0.003548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.07-10.48.45:767][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.07-10.48.46:654][253]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.04.07-10.48.50:012][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.07-10.48.50:501][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.07-10.48.51:717][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2022.04.07-10.49.02:597][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2022.04.07-10.49.39:469][429]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2022.04.07-10.49.40:231][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.07-10.49.43:093][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2022.04.07-10.49.45:665][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.07-10.49.45:777][149]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.46:469][223]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.53:873][ 87]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.54:238][130]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.55:469][274]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.57:014][437]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.57:385][480]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.57:683][515]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.49.59:327][708]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.50.00:784][881]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.07-10.56.39:869][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.07-10.56.39:886][636]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMapF8CF5006446337105DA95683D8D40660.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.56.39:896][636]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.56.39:896][636]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.56.40:017][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.56.40:033][648]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap7BFCFFE74CAED9EBFB30039F25C7A1C6.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.56.40:042][648]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.56.40:042][648]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.56.40:169][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.56.40:184][662]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap32D44635450AE3EE90800B8B2BED121D.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.56.40:193][662]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.56.40:193][662]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.56.40:335][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.07-10.56.40:351][678]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap7A9373834A8778BDE5EA17B9430CD40D.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.56.40:359][678]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.56.40:359][678]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.56.40:501][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.56.40:517][693]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap96D850DB4DE0B24E5997A7A3DFF8D145.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.56.40:527][693]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.56.40:527][693]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.56.40:668][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.56.40:685][707]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap59C6E8F046AE29809866FCADB70B5F79.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.56.40:693][707]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.56.40:693][707]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.56.43:255][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2022.04.07-10.57.27:901][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.04.07-10.57.27:917][285]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap67E2242443D6CDA4202ADD94ED2C601A.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.57.27:926][285]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.57.27:926][285]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.57.28:050][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.57.28:066][298]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap8C4A81E84B79CC71395507AE2083A8B3.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.57.28:074][298]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.57.28:074][298]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.57.28:217][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.57.28:233][313]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMap67A6559343E9B5307B51038FBD4BF2CE.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.57.28:241][313]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.57.28:241][313]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.07-10.57.28:367][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.07-10.57.28:383][326]LogSavePackage: Moving '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Saved/FirstPersonExampleMapC2D8A4BB4841FBEC2B6804AA70E29151.tmp' to '../../../../../../Users/jayde/Documents/GitHub/ZombieGaem/ZombieGaemGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.07-10.57.28:391][326]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.07-10.57.28:392][326]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
